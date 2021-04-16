@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Gest_Input
+comment1.params=
+comment1.target=java.lang.String\ leggi()
+comment2.params=
+comment2.target=int\ randomcolore()
+comment3.params=
+comment3.target=int\ randomgrand()
+numComments=4
